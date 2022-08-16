@@ -17,7 +17,7 @@ def reason(success):
         rof = random.choice(reasons)
         return f"{rof}"
     else:
-        return "payment success"
+        return ""
 
 # CSV generation
 def datagenerate(records, headers):
@@ -27,10 +27,10 @@ def datagenerate(records, headers):
         writer.writeheader()
         for i in range(records):   
             if payment_status() == True:
-                status = "Success"
+                status = "Y"
                 temporary_value = True
             else:
-                status = "Failed"
+                status = "N"
                 temporary_value = False
             reason_for_failure = reason(temporary_value)
               
