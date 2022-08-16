@@ -12405,97 +12405,97 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 12403,17, Maria Garcia,100379,1500,Ram,Wallet,13,33975,7/26/2021 5:42,Meridian,Mississippi,Carfax,WU-715903,Y,
 12404,22, Jenny Pickard,200482,RAV4,Toyota,Wallet,15,26975,03-05-2021 10:31,Daytona Beach,Florida,AutoTrader,Mv-897479,Y,
 12405,21, Louis Way,200787,CR-V,Honda,Internet Banking,3,26800,8/21/2021 19:49,Lynchburg,Virginia,Carfax,bp-617619,N,The payment gateway does not support
-12406,19, Jordan Brown,100243,F-150,Ford,Card,7,45525,08-03-2021 03:40,Mobile,Alabama,Carfax,ML-666072,Y,
+12406,19, Jordan Brown,100243,F-150,Ford,Card,7,45525,08-03-2021 03:40,Mob,Alabama,Carfax,ML-666072,Y,
 12407,25, Karen Smith,300804,Model 3,Tesla,Card,10,46990,08-03-2021 12:24,Oak Ridge,Tennessee,Car Max,hz-934607,Y,
-12408,5, Brandon Johnson,100648,Sierra,GMC,Card,18,37195,7/27/2021 21:04,Richmond,Virginia,Car Max,Qr-028759,Y,
-12409,24, Amy Barnes,201081,Tucson,Hyundai,Wallet,11,24950,4/16/2021 3:52,Columbia,South Carolina,Carfax,RS-554747,Y,
-12410,6, Alex Poppins,300479,Camry,Toyota,Wallet,6,25945,11/20/2021 7:33,Jackson,Kentucky,Car Max,ID-117885,Y,
+12408,5, Brandon Johnson,10648,Sierra,GMC,Card,18,37195,7/27/2021 21:04,Richmond,Virginia,Car Max,Qr-028759,Y,
+12409,24, Amy Barnes,201081,Tucson,Hyundai,Wallet,11,249950,4/16/2021 3:52,Columbia,South Carolina,Carfax,RS-554747,Y,
+12410,6, Alex Poppins,300479,Camry,Toyota,Wallet,6,25945,11/20/2021 7:33,Jackson,Ken,Car Max,ID-117885,Y,
 12411,22, Jenny Pickard,200233,Explorer,Ford,Internet Banking,14,35510,10-08-2021 14:49,Chattanooga,Tennessee,Carfax,bV-069953,Y,
-12412,11, Chris Jones,300723,Accord,Honda,Wallet,20,26520,05-08-2021 00:07,Little Rock,Arkansas,AutoTrader,vV-560203,Y,
-12413,1, John Smith,201081,Tucson,Hyundai,Card,18,24950,02-05-2021 13:31,Jackson,Mississippi,AutoTrader,Ub-698200,N,Incorrect Pin
-12414,2, Mary Jane,100648,Sierra,GMC,Internet Banking,19,37195,9/13/2021 7:30,Key West,Florida,Carvana,DJ-487434,Y,
-12415,23, Usamah Khan,300451,Corolla,Toyota,UPI,9,20425,2/21/2021 3:46,Tupelo,Mississippi,Carvana,vq-688944,Y,
-12416,2, Mary Jane,300995,Altima,Nissan,UPI,2,24900,10/27/2021 7:01,Dulles,Virginia,Carvana,ak-752923,Y,
-12417,13, James Rodriguez,200482,RAV4,Toyota,Internet Banking,15,26975,8/16/2021 9:09,Asheville,North Carolina,Carfax,pa-238251,N,Credit or debit card is canceled
+12412,11, Chris Jones,3007723,Accord,Honda,Wallet,20,26520,05-08-2021 00:07,Little Rock,Arkansas,AutoTrader,vV-560203,Y,
+12413,1, John Smith,201081,Tucson,Hyundai,Card,18,24950,02-05-2021 13:31,Jack,Mississippi,Trader,Ub-698200,N,Incorrect Pin
+12414,2, Mary Jane,100648,Sierra,GMC,Internet,19,37195,9/13/2021 7:30,Key West,Florida,Carvana,DJ-487434,Y,
+12415,23, Usamah Khan,300451,Colla,Toyota,UPI,9,20425,2/21/2021 3:46,Tupelo,Mississippi,Carvana,vq-688944,Y,
+12416,2, Mary Jane,300995,Altima,Nissan,UPS,2,24900,10/27/2021 7:01,Dulles,Virginia,Carvana,ak-752923,Y,
+12417,13, James Rodriguez,200482,RAV4,Toyota, Banking,195,26975,8/16/2021 9:09,Asheville,North Carolina,Carfax,pa-238251,N,Credit or debit card is canceled
 12418,21, Louis Way,201137,CX-5,Mazda,Wallet,9,26250,1/15/2021 9:06,Nashville,Tennessee,AutoTrader,kX-903401,Y,
 12419,6, Alex Poppins,201278,Outback,Subaru,Wallet,16,26945,5/22/2021 2:58,Oak Ridge,Tennessee,Carvana,Zv-858052,Y,
 12420,24, Amy Barnes,200122,Equinox,Chevrolet,Wallet,20,26300,1/18/2021 11:07,Shreveport,Louisiana,Carvana,kM-922149,N,Credit or debit card is canceled
 12421,20, Ryan Collier,200482,,Toyota,UPI,10,26975,09-12-2021 17:20,New Orleans,Louisiana,Car Max,Zl-429361,Y,
-12422,18, Susan Boyle,100145,Silverado,Chevrolet,Wallet,11,34600,7/16/2021 3:21,Charleston,South Carolina,AutoTrader,se-058972,Y,
+12422,18, Susan Boyle,100145,Silverado,Chevrolet,Wallet,11,34600,70/16/2021 3:21,Charleston,South Carolina,AutoTrader,se-058972,Y,
 12423,18, Susan Boyle,300804,Model 3,Tesla,Wallet,2,46990,04-02-2021 12:15,Bowling Green,Kentucky,Carvana,rz-349384,Y,
-12424,20, Ryan Collier,200233,Explorer,Ford,Internet Banking,5,35510,1/22/2021 6:40,Fort Smith,Arkansas,Carfax,JC-011191,N,Incorrect Pin
-12425,2, Mary Jane,200261,Escape,Ford,Wallet,17,27185,02-02-2021 16:49,Mobile,Alabama,Car Max,uC-095042,Y,
-12426,5, Brandon Johnson,100145,Silverado,Chevrolet,Card,13,34600,03-11-2021 09:05,Augusta,Georgia,eBay,Ao-614760,Y,
-12427,22, Jenny Pickard,201137,CX-5,Mazda,Wallet,14,26250,6/17/2021 15:53,Charleston,South Carolina,Car Max,to-933650,N,Credit or debit card is expired 
-12428,20, Ryan Collier,201278,Outback,Subaru,Card,1,26945,6/14/2021 3:49,Oak Ridge,Tennessee,Carfax,IT-549486,N,The consumers account is suspended or closed 
-12429,11, Chris Jones,300723,Accord,Honda,Wallet,18,26520,6/22/2021 23:40,Columbus,Georgia,Carfax,mr-889990,Y,
-12430,25, Karen Smith,200261,Escape,Ford,Internet Banking,4,27185,05-02-2021 11:54,Roanoke,Virginia,Car Max,zQ-649752,Y,
-12431,14, Kumar Singh,300451,Corolla,Toyota,UPI,14,20425,6/25/2021 19:17,Richmond,Virginia,AutoTrader,cG-591468,Y,
-12432,16, Dave Hernandez,200122,Equinox,Chevrolet,Card,9,26300,4/13/2021 13:37,Elkins,West Virginia,eBay,WU-991492,Y,
+12424,20, Ryan Collier,200233,Explorer,Ford,Internet Banking,5,35510,10/22/2021 6:40,Fort Smith,Arkansas,Carfax,JC-011191,N,Incorrect Pin
+12425,2, Mary Jane,200261,Escape,Ford,Wallet,17,27185,02-02-2021 16:49,Mobile,Alabama,Car Max,C-095042,Y,
+12426,5, Brandon Johnson,100145,Silverado,Chevrolet,Card,13,34600,03-11-2021 09:05,Augusta,Georg,eBay,Ao-614760,Y,
+12427,22, Jenny Pickard,201137,CX-5,Mazda,Wallet,14,26250,6/17/2021 15:53,Son,South Carolina,Car Max,to-933650,N,Credit or debit card is expired 
+12428,20, Ryan Collier,201278,Outback,Sub,rd,1,26945,6/14/2021 3:49,Oak Ridge,Tennessee,Carfax,IT-549486,N,The consumers account is suspended or closed 
+12429,11, Chris Jones,300723,Accord,Hon,Wallet,18,26520,6/22/2021 23:40,Columbus,Georgia,Carfax,mr-889990,Y,
+12430,25, Karen Smith,200261,Escape,For,Internet Banking,4,27185,05-02-2021 11:54,Roanoke,Virginia,Car Max,zQ-649752,Y,
+12431,14, Kumar Singh,300451,Corolla,Toyota,UI,14,20425,6/25/2021 19:17,Richmond,Virginia,AutoTrader,cG-591468,Y,
+12432,16, Dave Hernandez,200122,Equinox,Chevrolet,Card,999,26300,4/13/2021 13:37,Elkins,West Virginia,eBay,WU-991492,Y,
 12433,20, Ryan Collier,200794,HR-V,Honda,UPI,21,23650,7/29/2021 8:55,Oak Ridge,Tennessee,Car Max,XT-851174,Y,
-12434,22, Jenny Pickard,100648,Sierra,GMC,Card,16,37195,11/25/2021 11:15,Montgomery,Alabama,Carvana,HC-249459,Y,
-12435,4, Rashid Matthews,200967,Rogue,Nissan,Card,10,27150,4/25/2021 16:52,Lynchburg,Virginia,AutoTrader,gc-852616,Y,
-12436,15, Micheal Smith,200787,CR-V,Honda,UPI,12,26800,12/17/2021 6:48,Shreveport,Louisiana,Carvana,oP-071603,Y,
-12437,17, Maria Garcia,201081,Tucson,Hyundai,Card,12,24950,10-07-2021 18:19,Greenville,South Carolina,Car Max,tt-744012,N,Incorrect Pin
-12438,2, Mary Jane,300451,Corolla,Toyota,Internet Banking,9,20425,11/21/2021 19:22,Macon,Georgia,Carfax,tQ-250325,Y,
-12439,22, Jenny Pickard,201137,CX-5,Mazda,Wallet,12,26250,10/28/2021 7:48,North Little Rock,Arkansas,Car Max,Ym-178969,N,The billing address is invalid 
-12440,9, Chloe Howells,300786,Civic,Honda,UPI,13,22550,4/16/2021 11:47,High Point,North Carolina,Carvana,pQ-403488,Y,
-12441,22, Jenny Pickard,200261,Escape,Ford,Card,15,27185,01-02-2021 14:36,Orlando,Florida,AutoTrader,tx-365653,Y,
-12442,4, Rashid Matthews,100409,Tacoma,Toyota,Wallet,13,27150,8/18/2021 4:50,Montgomery,Alabama,Carfax,Kk-843893,Y,
-12443,11, Chris Jones,300786,Civic,Honda,UPI,16,22550,1/19/2021 12:46,Asheville,North Carolina,eBay,OH-734866,N,Credit or debit card is canceled
-12444,8, Justin Thomas,300786,Civic,Honda,Internet Banking,16,22550,08-01-2021 08:05,Lake Charles,Louisiana,Carfax,om-418379,Y,
-12445,18, Susan Boyle,200261,Escape,Ford,Internet Banking,5,27185,04-09-2021 04:53,Lynchburg,Virginia,Car Max,GP-784025,Y,
-12446,8, Justin Thomas,200794,HR-V,Honda,Card,8,23650,10/17/2021 19:01,Fort Smith,Arkansas,AutoTrader,RC-447777,Y,
-12447,4, Rashid Matthews,200794,HR-V,Honda,Card,2,23650,02-09-2021 08:37,Fort Myers,Florida,AutoTrader,gw-402947,Y,
-12448,12, Eric Kemsley,200794,HR-V,Honda,UPI,12,23650,3/13/2021 5:49,Savannah,Georgia,Carfax,Pf-384509,Y,
-12449,20, Ryan Collier,201137,CX-5,Mazda,UPI,16,26250,11-09-2021 18:58,Athens,Georgia,Carvana,Cl-919954,Y,
-12450,20, Ryan Collier,300804,Model 3,Tesla,Card,2,46990,5/18/2021 12:36,Huntsville,Alabama,Carvana,KW-753736,Y,
-12451,11, Chris Jones,100494,Highlander,Toyota,Wallet,6,35855,12/14/2021 14:12,Huntington,West Virginia,AutoTrader,lS-218253,Y,
-12452,11, Chris Jones,300479,Camry,Toyota,Internet Banking,2,25945,7/26/2021 5:53,Athens,Georgia,eBay,Kg-440525,Y,
-12453,5, Brandon Johnson,100494,Highlander,Toyota,Internet Banking,8,35855,01-02-2021 16:04,Atlanta,Georgia,Car Max,Sc-880185,Y,
-12454,17, Maria Garcia,100243,F-150,Ford,Card,17,45525,08-10-2021 18:15,Cape Hatteras,North Carolina,AutoTrader,gs-866949,Y,
-12455,1, John Smith,201278,Outback,Subaru,Internet Banking,6,26945,11/24/2021 15:17,Huntington,West Virginia,Carvana,II-524872,Y,
-12456,19, Jordan Brown,300723,Accord,Honda,Internet Banking,1,26520,8/20/2021 6:44,Oak Ridge,Tennessee,AutoTrader,Nw-136282,N,Merchant account blocks the transaction
-12457,11, Chris Jones,300723,Accord,Honda,Card,20,26520,8/27/2021 11:20,Meridian,Mississippi,AutoTrader,TP-125377,Y,
-12458,6, Alex Poppins,100145,Silverado,Chevrolet,Internet Banking,8,34600,11/26/2021 11:20,Tampa,Florida,eBay,fh-821877,Y,
-12459,1, John Smith,300723,Accord,Honda,UPI,15,26520,4/19/2021 8:49,Nashville,Tennessee,eBay,JJ-270569,Y,
-12460,6, Alex Poppins,200787,CR-V,Honda,Internet Banking,12,26800,7/27/2021 14:03,Raleigh,North Carolina,Carfax,Zj-212863,Y,
-12461,19, Jordan Brown,300723,Accord,Honda,Wallet,5,26520,1/17/2021 4:19,Richmond,Virginia,Carfax,cJ-005272,Y,
-12462,1, John Smith,300451,Corolla,Toyota,UPI,3,20425,01-10-2021 05:15,Paducah,Kentucky,Car Max,bz-433378,Y,
-12463,11, Chris Jones,100243,F-150,Ford,UPI,12,45525,5/28/2021 15:37,North Little Rock,Arkansas,AutoTrader,CF-101857,Y,
-12464,17, Maria Garcia,300857,Model Y,Tesla,Card,1,65990,05-04-2021 02:12,Lake Charles,Louisiana,Carvana,Nl-009067,N,Merchant account blocks the transaction
-12465,22, Jenny Pickard,300857,Model Y,Tesla,UPI,16,65990,1/16/2021 15:52,Beckley,West Virginia,AutoTrader,Ep-377502,N,Credit or debit card is canceled
-12466,11, Chris Jones,100145,Silverado,Chevrolet,UPI,4,34600,10/24/2021 3:24,Greenville,South Carolina,Car Max,LI-925356,Y,
-12467,10, Max Halloway,300451,Corolla,Toyota,UPI,6,20425,09-05-2021 16:36,Vero Beach,Florida,Carvana,iv-727765,N,Incorrect Pin
-12468,22, Jenny Pickard,100145,Silverado,Chevrolet,Card,21,34600,6/21/2021 1:14,Johnson City,Tennessee,eBay,lQ-639080,Y,
-12469,5, Brandon Johnson,200787,CR-V,Honda,Wallet,18,26800,08-07-2021 06:31,Fort Smith,Arkansas,Carvana,TY-438997,Y,
-12470,12, Eric Kemsley,300723,Accord,Honda,Wallet,12,26520,7/14/2021 17:57,Huntsville,Alabama,Carvana,tF-944103,Y,
-12471,18, Susan Boyle,200528,Grand Cherokee,Jeep,Internet Banking,8,39000,8/21/2021 10:05,Orlando,Florida,Car Max,IV-165073,N,The payment gateway does not support
-12472,23, Usamah Khan,300451,Corolla,Toyota,UPI,9,20425,03-06-2021 10:36,Meridian,Mississippi,Car Max,iR-201513,Y,
-12473,23, Usamah Khan,200967,Rogue,Nissan,UPI,7,27150,01-01-2021 17:18,Jackson,Kentucky,Car Max,fw-217445,Y,
-12474,1, John Smith,300804,Model 3,Tesla,UPI,10,46990,04-06-2021 21:30,Jackson,Kentucky,eBay,gT-529987,Y,
-12475,17, Maria Garcia,100494,Highlander,Toyota,Internet Banking,5,35855,12/18/2021 5:20,Savannah,Georgia,Carvana,rZ-560727,N,The payment gateway does not support
-12476,24, Amy Barnes,300857,Model Y,Tesla,Wallet,7,65990,1/19/2021 14:43,Nashville,Tennessee,Car Max,FF-685136,Y,
-12477,25, Karen Smith,300995,Altima,Nissan,UPI,15,24900,10-09-2021 21:20,Columbia,South Carolina,Carvana,Xq-318472,Y,
-12478,13, James Rodriguez,201081,Tucson,Hyundai,Wallet,2,24950,7/28/2021 21:41,Lynchburg,Virginia,Car Max,KF-299331,Y,
-12479,1, John Smith,300479,Camry,Toyota,UPI,1,25945,12-05-2021 09:19,Huntsville,Alabama,Carfax,CE-844523,Y,
-12480,5, Brandon Johnson,200967,Rogue,Nissan,Card,15,27150,11/19/2021 2:10,Louisville,Kentucky,AutoTrader,nf-724058,Y,
-12481,8, Justin Thomas,300479,Camry,Toyota,UPI,14,25945,4/15/2021 6:02,Wilmington,North Carolina,Car Max,Bi-776632,Y,
-12482,12, Eric Kemsley,200261,Escape,Ford,Wallet,7,27185,4/18/2021 9:47,Mobile,Alabama,Carvana,CS-290918,Y,
-12483,9, Chloe Howells,100409,Tacoma,Toyota,Wallet,9,27150,3/21/2021 14:10,Shreveport,Louisiana,AutoTrader,MR-528277,Y,
-12484,17, Maria Garcia,300479,Camry,Toyota,UPI,3,25945,07-02-2021 07:58,Jackson,Mississippi,Carfax,yM-423794,Y,
+12434,22, Jenny Pickard,100648,Sierra,GMC,Card,16,3719500,11/25/2021 11:15,Montgomery,Alabama,Carvana,HC-249459,Y,
+12435,4, Rashid Matthews,20000967,Rogue,Nissan,Card,10,27150,4/25/2021 16:52,Lynchburg,Virginia,AutoTrader,gc-852616,Y,
+12436,159, Micheal Smith,200787,CR-V,Honda,UPI,12,26800,12/17/2021 6:48,Shreveport,Louisiana,Carvana,oP-071603,Y,
+12437,17, Maria Gar,201081,Tucson,Hyundai,Card,12,24950,10-07-2021 18:19,Greenville,South Carolina,Car Max,tt-744012,N,Incorrect Pin
+12438,2, Mary Jane,300451,Corolla,Toyo,Internet Banking,9,20425,11/21/2021 19:22,Macon,Georgia,Carfax,tQ-250325,Y,
+12439,22, Jenny Pickard,201137,CX-5,Mazda,Wall,12,26250,10/28/2021 7:48,North Little Rock,Arkansas,Car Max,Ym-178969,N,The billing address is invalid 
+12440,9, Chloe Howells,300786,Civic,Hon,UPI,13,22550,4/16/2021 11:47,High Point,North Carolina,Carvana,pQ-403488,Y,
+12441,22, Jenny Pickard,200261,Escape,Ford,Card,15,27185,01-02-2021 14:36,Orlando,Flo,AutoTrader,tx-365653,Y,
+12442,4, Rashid Matthews,100409,Tacoma,Toyota,Wallet,13,27150,8/18/2021 4:50,Montgomery,Alabama,Carfax,K-43893,Y,
+12443,11, Chris Jones,300786,Civic,Honda,UPI,16,22550,1/19/2021 12:46,Asheville,Carolina,eBay,OH-734866,N,Credit or debit card is canceled
+12444,8, Justin Thomas,300786,Civic,Honda,Internet Banking,886,22550,08-01-2021 08:05,Lake Charles,Louisiana,Carfax,om-418379,Y,
+12445,18, Susan Boyle,200261,Escape,Ford, Banking,5,27185,04-09-2021 04:53,Lynchburg,Virginia,Car Max,GP-784025,Y,
+12446,8, Justin Thomas,2007,HR-V,Honda,Card,8,23650,10/17/2021 19:01,Fort Smith,Arkansas,AutoTrader,RC-447777,Y,
+12447,4, Ras Matthews,200794,HR-V,Honda,Card,2,23650,02-09-2021 08:37,Fort Myers,Florida,AutoTrader,gw-402947,Y,
+448,12, Eric Kemsley,200794,HR-V,Honda,UPI,12,23650,3/13/2021 5:49,Savannah,Georgia,Carfax,Pf-384509,Y,
+12449,200, Ryan Collier,201137,CX-5,Mazda,UPI,16,26250,11-09-2021 18:58,Athens,Georgia,Carvana,Cl-919954,Y,
+12450,20, Ray Collier,300804,Model 3,Tesla,Card,2,46990,5/18/2021 12:36,Huntsville,Alabama,Carvana,KW-753736,Y,
+12451,11, Chris Jones,1494,Highlander,Toyota,Wallet,6,35855,12/14/2021 14:12,Huntington,West Virginia,AutoTrader,lS-218253,Y,
+12452,11, Chris Jones,300479,Car,Toyota,Internet Banking,2,25945,7/26/2021 5:53,Athens,Georgia,eBay,Kg-440525,Y,
+12453,5, Brandon Johnson,100494,Highlander,Toyota,Internet ,8,35855,01-02-2021 16:04,Atlanta,Georgia,Car Max,Sc-880185,Y,
+12454,17, Maria Garcia,100243,F-150,Ford,Card,17,45525,08-10-2021 18:15,Cape Haras,North Carolina,AutoTrader,gs-866949,Y,
+12455,1, John Smith,201278,Outback,Subaru,Internet Banking,6,26945,11/24/2021 15:17,Huntin,West Virginia,Carvana,II-524872,Y,
+12456,19, Jordan Brown,300723,Accord,Honda,Internet Banking,1,26520,8/20/2021 6:44,Oak Ridge,Tennessee,Trader,Nw-136282,N,Merchant account blocks the transaction
+12457,11, Chris Jones,300723,Accord,Honda,Card,20,26520,8/27/2021 11:20,Meridian,Mississippi,AutoTrader,125377,Y,
+12458,6, Alex Poppins,100145,Silverado,Chevrolet,Internet Banking,8,34600,11/26/2021 11:20,Tampa,Florida,Bay,fh-821877,Y,
+12459,1, John Smith,300723,Accord,Honda,UPI,15,26520,4/19/2021 8:49,Nashville,Tennessee,eBay,270569,Y,
+12460,6, Alex Poppins,200787,CR-V,Honda,Internet Banking,12,26800,7/27/2021 14:00,Raleigh,North Carolina,Carfax,Zj-212863,Y,
+12461,19, Jordan Brown,300723,Accord,Honda,Wallet,5,26520,1/17/2021 4:19,Rich,Virginia,Carfax,cJ-005272,Y,
+12462,1, John Smith,300451,Corolla,Toyota,UPI,3,20,01-10-2021 05:15,Paducah,Kentucky,Car Max,bz-433378,Y,
+12463,11, Chris Jones,100243,F-150,Ford,UP,12,45525,5/28/2021 15:37,North Little Rock,Arkansas,AutoTrader,CF-101857,Y,
+12464,17, Maria Garcia,300857,M Y,Tesla,Card,1,65990,05-04-2021 02:12,Lake Charles,Louisiana,Carvana,Nl-009067,N,Merchant account blocks the transaction
+12465,22, Jenny Pickard,3008,Model Y,Tesla,UPI,16,65990,1/16/2021 15:52,Beckley,West Virginia,AutoTrader,Ep-377502,N,Credit or debit card is canceled
+12466,11, C Jones,100145,Silverado,Chevrolet,UPI,4,34600,10/24/2021 3:24,Greenville,South Carolina,Car Max,LI-925356,Y,
+124,10, Max Halloway,300451,Corolla,Toyota,UPI,6,20425,09-05-2021 16:36,Vero Beach,Florida,Carvana,iv-727765,N,Incorrect Pin
+12468,2, Jenny Pickard,100145,Silverado,Chevrolet,Card,21,34600,6/21/2021 1:14,Johnson City,Tennessee,eBay,lQ-639080,Y,
+12469,5, Bran Johnson,200787,CR-V,Honda,Wallet,18,26800,08-07-2021 06:31,Fort Smith,Arkansas,Carvana,TY-438997,Y,
+12470,12, Eri Kemsley,300723,Accord,Honda,Wallet,12,26520,7/14/2021 17:57,Huntsville,Alabama,Carvana,tF-944103,Y,
+12471,18, Susan Bo,200528,Grand Cherokee,Jeep,Internet Banking,8,39000,8/21/2021 10:05,Orlando,Florida,Car Max,IV-165073,N,The payment gateway does not support
+12472,23, Usamah Khan,3004,Corolla,Toyota,UPI,9,20425,03-06-2021 10:36,Meridian,Mississippi,Car Max,iR-201513,Y,
+12473,23, Usamah Khan,200967,Rog,Nissan,UPI,7,27150,01-01-2021 17:18,Jackson,Kentucky,Car Max,fw-217445,Y,
+12474,1, John Smith,300804,Model 3,Tesla,UPU,10,46990,04-06-2021 21:30,Jackson,Kentucky,eBay,gT-529987,Y,
+12475,17, Maria Garcia,100494,Highlander,Toyo,Internet Banking,5,35855,12/18/2021 5:20,Savannah,Georgia,Carvana,rZ-560727,N,The payment gateway does not support
+12476,24, Amy Barnes,300857,Model Y,Tesla,Wallet,7,6599,1/19/2021 14:43,Nashville,Tennessee,Car Max,FF-685136,Y,
+12477,25, Karen Smith,300995,Altima,Nissan,UPI,15,249,10-09-2021 21:20,Columbia,South Carolina,Carvana,Xq-318472,Y,
+12478,13, James Rodriguez,201081,Tucson,Hyundai,Wall,2,24950,7/28/2021 21:41,Lynchburg,Virginia,Car Max,KF-299331,Y,
+12479,1, John Smith,300479,Camry,Toyota,UPI,1,25945,12-05-2021 09:10,Huntsville,Alabama,Carfax,CE-844523,Y,
+12480,5, Brandon Johnson,200967,Rogue,Nissan,Card,15,27150,11/19/2021 2:10,Louisv,Kentucky,AutoTrader,nf-724058,Y,
+12481,8, Justin Thomas,300479,Camry,Toyota,UPI,14,25945,4/15/2021 6:02,Wilmington, Carolina,Car Max,Bi-776632,Y,
+12482,12, Eric Kemsley,200261,Escape,Ford,Wallet,7,27185,4/18/2021 9:47,Mobile,Alabama,Carva,CS-290918,Y,
+12483,9, Chloe Howells,100409,Tacoma,Toyota,Wallet,9,27150,3/21/2021 14:10,Shreveport,Louisiana,AutoTra,MR-528277,Y,
+12484,17, Maria Garcia,300479,Camry,Toyota,UPI,3,25945,07-02-2021 07:58,Jackson,Mississippi,Carfax,yM-4237,Y,
 12485,12, Eric Kemsley,200122,Equinox,Chevrolet,Card,11,26300,3/30/2021 1:24,Elkins,West Virginia,Car Max,xL-320179,Y,
-12486,22, Jenny Pickard,200122,Equinox,Chevrolet,Wallet,10,26300,6/30/2021 20:55,Greensboro,North Carolina,Car Max,Mc-093374,Y,
-12487,5, Brandon Johnson,300451,Corolla,Toyota,UPI,12,20425,03-05-2021 01:33,Key West,Florida,Carfax,Wu-831580,Y,
-12488,3,Alexander Hopkins,200261,Escape,Ford,UPI,11,27185,5/24/2021 13:35,Meridian,Mississippi,Carfax,TQ-738269,Y,
-12489,4, Rashid Matthews,201137,CX-5,Mazda,UPI,3,26250,06-05-2021 00:59,Greensboro,North Carolina,Carvana,bj-584963,Y,
-12490,14, Kumar Singh,200787,CR-V,Honda,Card,17,26800,10-07-2021 16:12,Little Rock,Arkansas,Carfax,WM-735530,N,Merchant account blocks the transaction
-12491,13, James Rodriguez,300723,Accord,Honda,UPI,18,26520,03-06-2021 21:40,Lexington,Kentucky,Carvana,gz-201319,Y,
-12492,23, Usamah Khan,100243,F-150,Ford,UPI,6,45525,7/27/2021 7:52,Cape Hatteras,North Carolina,AutoTrader,PA-155458,Y,
-12493,4, Rashid Matthews,300723,Accord,Honda,Wallet,21,26520,09-02-2021 20:59,Beckley,West Virginia,eBay,Qd-676035,N,Credit or debit card is canceled
-12494,21, Louis Way,300723,Accord,Honda,UPI,4,26520,9/14/2021 9:08,Mobile,Alabama,AutoTrader,In-964084,Y,
-12495,10, Max Halloway,200261,Escape,Ford,Card,4,27185,3/24/2021 18:26,Bowling Green,Kentucky,Carfax,Cn-550367,N,The billing address is invalid 
-12496,16, Dave Hernandez,300786,Civic,Honda,Wallet,10,22550,08-06-2021 02:46,Daytona Beach,Florida,Carfax,wo-286736,Y,
-12497,23, Usamah Khan,200967,Rogue,Nissan,Internet Banking,11,27150,8/14/2021 22:57,Huntington,West Virginia,Carvana,lp-247330,Y,
-12498,16, Dave Hernandez,201081,Tucson,Hyundai,Wallet,9,24950,2/23/2021 22:53,North Little Rock,Arkansas,AutoTrader,ng-368271,Y,
-12499,9, Chloe Howells,201081,Tucson,Hyundai,UPI,21,24950,3/13/2021 16:17,Elkins,West Virginia,Carvana,ip-440016,Y,
+12486,22, Jenny Pickard,200122,Equinox,Chevrolet,Wallet,10,26300,6/30/2021 20:55,Greensboro,North Carolina, Max,Mc-093374,Y,
+12487,5, Brandon Johnson,300451,Corolla,Toyota,UPI,12,20425,03-05-2021 01:33,Key West,Florida,Carf,Wu-831580,Y,
+12488,3,Alexander Hopkins,200261,Escape,Ford,UPI,11,27185,5/24/2021 13:35,Meridian,Mississip,Carfax,TQ-738269,Y,
+12489,4, Rashid Matthews,201137,CX-5,Mazda,UPI,3,26250,06-05-2021 00:59,Greensboro,North Caroli,Carvana,bj-584963,Y,
+12490,14, Kumar Singh,200787,CR-V,Honda,Card,17,26800,10-07-2021 16:12,Little Rock,Arkansas,Carfa,WM-735530,N,Merchant account blocks the transaction
+12491,13, James Rodriguez,300723,Accord,Honda,UPI,18,26520,03-06-2021 21:40,Lexington,Kentuck,Carvana,gz-201319,Y,
+12492,23, Usamah Khan,100243,F-150,Ford,UPI,6,45525,7/27/2021 7:52,Cape Hatteras,Nort Carolina,AutoTrader,PA-155458,Y,
+12493,4, Rashid Matthews,300723,Accord,Honda,Wallet,21,26520,09-02-2021 20:59,Beckle,West Virginia,eBay,Qd-676035,N,Credit or debit card is canceled
+12494,21, Louis Way,300723,Accord,Honda,UPI,4,26520,9/14/2021 9:08,Mobil,Alabama,AutoTrader,In-964084,Y,
+12495,10, Max Halloway,200261,Escape,Ford,Card,4,2718,3/24/2021 18:26,Bowling Green,Kentucky,Carfax,Cn-550367,N,The billing address is invalid 
+12496,16, Dave Hernandez,300786,Civic,Honda,Walle,10,22550,08-06-2021 02:46,Daytona Beach,Florida,Carfax,wo-286736,Y,
+12497,23, Usamah Khan,200967,Rogue,Nissa,Internet Banking,11,27150,8/14/2021 22:57,Huntington,West Virginia,Carvana,lp-247330,Y,
+12498,16, Dave Hernandez,20108,Tucson,Hyundai,Wallet,9,24950,2/23/2021 22:53,North Little Rock,Arkansas,AutoTrader,ng-368271,Y,
+12499,9, Chlo Howells,201081,Tucson,Hyundai,UPI,21,24950,3/13/2021 16:17,Elkins,West Virginia,Carvana,ip-440016,Y,
