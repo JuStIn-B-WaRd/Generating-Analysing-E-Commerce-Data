@@ -41,7 +41,7 @@ def datagenerate(records, headers):
                     })
     
 if __name__ == '__main__':
-    records = 5500
+    records = 12500
     headers = ["payment_txn_id", "payment_txn_success", "failure_reason"]
     datagenerate(records, headers)
     print("CSV generation complete!")
