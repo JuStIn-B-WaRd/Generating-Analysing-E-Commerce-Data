@@ -1,0 +1,120 @@
+fiction,England,3056.0
+nonfiction,England,1273.0
+history,England,1166.0
+data_science,England,803.0
+philosophy,England,780.0
+science,England,575.0
+computer_science,England,531.0
+comic,England,515.0
+economics,England,505.0
+mathematics,England,259.0
+signal_processing,England,168.0
+psychology,England,37.0
+fiction,France,2320.0
+nonfiction,France,1087.0
+history,France,835.0
+philosophy,France,623.0
+data_science,France,580.0
+science,France,508.0
+computer_science,France,465.0
+economics,France,431.0
+comic,France,385.0
+mathematics,France,125.0
+signal_processing,France,99.0
+psychology,France,61.0
+fiction,Germany,2713.0
+nonfiction,Germany,1385.0
+history,Germany,1136.0
+philosophy,Germany,715.0
+data_science,Germany,629.0
+science,Germany,576.0
+comic,Germany,515.0
+economics,Germany,473.0
+computer_science,Germany,414.0
+mathematics,Germany,274.0
+signal_processing,Germany,112.0
+psychology,Germany,34.0
+fiction,Italy,2208.0
+nonfiction,Italy,918.0
+history,Italy,908.0
+philosophy,Italy,528.0
+data_science,Italy,485.0
+science,Italy,478.0
+comic,Italy,402.0
+economics,Italy,352.0
+computer_science,Italy,327.0
+mathematics,Italy,158.0
+signal_processing,Italy,93.0
+psychology,Italy,14.0
+fiction,Japan,1842.0
+nonfiction,Japan,867.0
+history,Japan,787.0
+data_science,Japan,470.0
+philosophy,Japan,422.0
+science,Japan,405.0
+comic,Japan,394.0
+computer_science,Japan,336.0
+economics,Japan,303.0
+mathematics,Japan,167.0
+signal_processing,Japan,87.0
+psychology,Japan,59.0
+fiction,Mexico,3010.0
+nonfiction,Mexico,1581.0
+history,Mexico,1250.0
+philosophy,Mexico,911.0
+data_science,Mexico,792.0
+science,Mexico,569.0
+comic,Mexico,566.0
+computer_science,Mexico,504.0
+economics,Mexico,362.0
+mathematics,Mexico,236.0
+signal_processing,Mexico,141.0
+psychology,Mexico,57.0
+fiction,Nigeria,2893.0
+nonfiction,Nigeria,1446.0
+history,Nigeria,1158.0
+data_science,Nigeria,774.0
+philosophy,Nigeria,670.0
+comic,Nigeria,611.0
+science,Nigeria,471.0
+computer_science,Nigeria,467.0
+economics,Nigeria,452.0
+mathematics,Nigeria,180.0
+signal_processing,Nigeria,136.0
+psychology,Nigeria,41.0
+fiction,Portugal,2685.0
+history,Portugal,1197.0
+nonfiction,Portugal,1058.0
+data_science,Portugal,759.0
+philosophy,Portugal,677.0
+economics,Portugal,490.0
+science,Portugal,478.0
+computer_science,Portugal,436.0
+comic,Portugal,428.0
+mathematics,Portugal,156.0
+signal_processing,Portugal,150.0
+psychology,Portugal,57.0
+fiction,Spain,2017.0
+nonfiction,Spain,846.0
+history,Spain,831.0
+data_science,Spain,542.0
+philosophy,Spain,528.0
+comic,Spain,505.0
+science,Spain,446.0
+computer_science,Spain,381.0
+economics,Spain,352.0
+mathematics,Spain,202.0
+signal_processing,Spain,88.0
+psychology,Spain,37.0
+fiction,United States,2287.0
+nonfiction,United States,1051.0
+history,United States,893.0
+philosophy,United States,587.0
+comic,United States,496.0
+science,United States,487.0
+data_science,United States,426.0
+computer_science,United States,388.0
+economics,United States,379.0
+mathematics,United States,126.0
+signal_processing,United States,102.0
+psychology,United States,43.0
